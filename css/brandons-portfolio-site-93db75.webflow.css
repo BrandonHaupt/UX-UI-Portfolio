@@ -6715,7 +6715,7 @@ figcaption {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     line-height: 28px;
     text-align: left;
   }
@@ -6729,7 +6729,7 @@ figcaption {
     overflow: visible;
     margin-right: 0px;
     direction: ltr;
-    font-size: 1.9rem;
+    font-size: 1.5rem;
     line-height: 48px;
     text-align: left;
     white-space: normal;
